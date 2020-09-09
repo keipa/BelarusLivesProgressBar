@@ -1,9 +1,9 @@
 <idea-plugin>
   <id>some.awesome</id>
-  <name>Nyan Progress Bar</name>
+  <name>Belarus Lives Progress Bar</name>
   <version>1.14</version>
   <idea-version since-build="192"/>
-  <vendor email="dmitry.batkovich@jetbrains.com">Dmitry Batkovich</vendor>
+  <vendor email="nichogaus@gmail.com">Dmitry Batkovich</vendor>
 
   <description><![CDATA[
       Pretty progress bars with nyan cat for IJ based IDEs.
